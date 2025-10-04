@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://bukpiwdsrlhn8"]
+
+[node name="Ui" type="PanelContainer"]
+anchors_preset = -1
+anchor_right = 0.043
+anchor_bottom = 0.045
+offset_right = -27.52
+offset_bottom = -16.2
